@@ -21,7 +21,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/cplusplus.png"/> </a> 
+    <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
