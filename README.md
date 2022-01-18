@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhaswati</h1>
+<h1 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhaswati Roy</h1>
 <h3 align="center">I'm a passionate Coder from India.</h3>
 
 
@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently studying in **IEM, Kolkata**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Natural Language Processing**
+- 🌱 I’m currently learning **Data Structures and Algorithms & Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m also an **OpenSource Contributor**
 
-- 📫 How to reach me **roybhaswati24@gmail.com**
+- 📫 Reach out to me through mail:- **roybhaswati24@gmail.com**
 
 - ⚡ Fun fact **I love listening to music while I code.**
 
