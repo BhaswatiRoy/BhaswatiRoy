@@ -3,17 +3,8 @@
 # Hello There!!!!     I am Bhaswati Roy 
 
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently studying in **IEM, Kolkata**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms & Natural Language Processing**
-
-- 👯 I’m also an **OpenSource Contributor**
-
-- 📫 Reach out to me through mail:- **roybhaswati24@gmail.com**
-
-- ⚡ Fun fact **I love listening to music while I code.**
+## About Me
+I am currently studying in 2nd year of my college at IEM,Kolkata in BTech CSE brach with an overall CGPA of 9.28. I am a passionate learner who is very much inclined towards the field of Data Analysis & Machine Learning. I am currently exploring the field of NLP & Deep Learning. I love participating in various open-source programs and I also ranked 4th in Python domain in GirlScript Winter of Contributing 2021. I am a GDSC GCE ML Team Lead and Beta MLSA. I also received the WEAmplify Scholarship from Harvard University for their WECode Conference.
 
 ## 🚀 Languages and Tools:
 
