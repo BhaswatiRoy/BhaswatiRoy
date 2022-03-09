@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<center> # Hello There!!!!     I am Bhaswati Roy </center>
+# Hello There!!!!     I am Bhaswati Roy 
 
 
 ## 🙋‍♂️ About Me
