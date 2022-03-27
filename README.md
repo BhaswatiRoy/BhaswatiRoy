@@ -12,6 +12,10 @@ I am currently studying in 2nd year of my college at IEM,Kolkata in BTech CSE br
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Bootstrap-430098?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;
