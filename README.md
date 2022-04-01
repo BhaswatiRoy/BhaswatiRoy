@@ -2,7 +2,7 @@
 
 
 ## About Me
-I am currently studying in 2nd year of my college at IEM,Kolkata in BTech CSE brach with an overall CGPA of 9.28. I am a passionate learner who is very much inclined towards the field of Data Analysis & Machine Learning. I am currently exploring the field of NLP & Deep Learning. I love participating in various open-source programs and I also ranked 4th in Python domain in GirlScript Winter of Contributing 2021. I am a GDSC GCE ML Team Lead and Beta MLSA. I also received the WEAmplify Scholarship from Harvard University for their WECode Conference. I also love listening to songs of Taylor Swift while coding
+I am currently studying in 2nd year of my college at IEM,Kolkata in BTech CSE brach with an overall CGPA of 9.28. I am a passionate learner who is very much inclined towards the field of Data Analysis & Machine Learning. I am currently exploring the field of NLP & Deep Learning. I love participating in various open-source programs and I also ranked 4th in Python domain in GirlScript Winter of Contributing 2021. I am a GDSC GCE ML Team Lead and Beta MLSA. I received the Google WE Scholarship 2021 by ranking in Top 500 and also received the WEAmplify Scholarship 2022 from Harvard University for their WECode Conference. I also love listening to songs of Taylor Swift while coding. I attained a Global Rank of 1813 in Google Code Jam to I/O 2022.
 
 ### My Tech Stack:
 
