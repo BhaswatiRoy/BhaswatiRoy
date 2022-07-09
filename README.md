@@ -3,12 +3,13 @@
 
 ## About Me
 - I am currently studying in 2nd year of my college in BTech CSE brach with an overall CGPA of 9.61. 
-- I am a passionate learner who is very much inclined towards the field of Data Analysis & Machine Learning. I am currently exploring the field of NLP & Deep Learning. - I love participating in various open-source programs and I ranked 4th in Python domain in GirlScript Winter of Contributing 2021 and also ranked 7th in Allover in Script Winter of Code 2021. 
-- I am a Former Google Developer Student Club GCE ML Team Lead and Beta Microsoft Learn Student Ambassador. 
 - I received the Google Women Engineering Scholarship 2021 by ranking in Top 500.
 - I received the WEAmplify Scholarship 2022 from Harvard University for their WECode Conference for the year 2022. 
 - I was also selected as LinkedIn CoachIn Site Reliability Engineering Mentee for the year 2022.
+- I was a Finalist in Azure Women Hackathon 2022 and a Semi Finalist Flipkart GRiD 2022.
 - I attained a Global Rank of 1813 in Google Code Jam to I/O 2022 and a Global Rank of 5858 in Google Kickstart 2022. 
+- I am a Former Google Developer Student Club GCE ML Team Lead and Beta Microsoft Learn Student Ambassador. 
+- I ranked 4th in Python domain in GirlScript Winter of Contributing 2021 and also ranked 7th in Allover in Script Winter of Code 2021. 
 - I also love listening to songs of Taylor Swift while coding.
 
 ### My Tech Stack:
