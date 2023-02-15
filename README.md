@@ -62,7 +62,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/bhaswati-roy-6561641b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/bhaswatiroy31/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/__bhaswati__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_bhaswati_roy_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
