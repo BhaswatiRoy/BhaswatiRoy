@@ -37,7 +37,7 @@
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Linux-F9AB00?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;&nbsp;
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/BhaswatiRoy/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bhaswati Roy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BhaswatiRoy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -57,19 +57,20 @@
 <a href="https://github.com/BhaswatiRoy/github-readme-activity-graph"><img alt="Bhaswati Roy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BhaswatiRoy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/bhaswatiroy31/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/__bhaswati__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_bhaswati_roy_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/swiftiebhaswati"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/swiftie_bhaswati"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=BhaswatiRoy">
 </a>
 <a href="https://github.com/BhaswatiRoy?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+ -->
