@@ -3,15 +3,9 @@
 
 ## About Me
 
-- I am currently studying in prefinal year of my college in BTech Computer Science Engineering brach with an overall CGPA of 9.31. 
-- I received the Google Women Engineering Scholarship by ranking in Top 500 for the year 2021.
-- I received the Harvard WEAmplify Scholarship for the Harvard WECode Conference for the year 2022. 
-- I was also selected as LinkedIn CoachIn Site Reliability Engineering Mentee by ranking in Top 20 for the year 2022.
-- I was a Finalist in Azure Women Hackathon by ranking in Top 50 for the year 2022 
-- I was also a Semi Finalist in Flipkart GRiD by ranking in Top 1600 for the year 2022. 
-- I am a Former Google Developer Student Club ML Team Lead and Beta Microsoft Learn Student Ambassador. 
-- I also love listening to songs of Taylor Swift while coding.
-- I have contributed to different open source organizations, fixing their documentation issues
+- Graduated with a B.Tech in Computer Science with an overall CGPA of 9.27/10 in 2024. 
+- Working as a Software Engineer with Barclays London.
+- Worked as a Software Engineer Summer Intern at Barclays London in 2023.
 
 ### My Tech Stack:
 
