@@ -7,6 +7,7 @@
 - Working as a Software Engineer with Barclays London.
 - Worked as a Software Engineer Summer Intern at Barclays London in 2023.
 - Received summer internship offers from Amazon India & ServiceNow India.
+- Selected as a Google Season of Docs Mentee for AsyncAPI (Postman) in 2023.
 
 ### My Tech Stack:
 
