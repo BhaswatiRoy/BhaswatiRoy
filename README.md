@@ -6,6 +6,7 @@
 - Graduated with a B.Tech in Computer Science with an overall CGPA of 9.27/10 in 2024. 
 - Working as a Software Engineer with Barclays London.
 - Worked as a Software Engineer Summer Intern at Barclays London in 2023.
+- Received summer internship offers from Amazon India & ServiceNow India.
 
 ### My Tech Stack:
 
